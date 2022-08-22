@@ -1,4 +1,5 @@
-## Hi! My name is Avedi Musungu (Or Potterblack) - a Data Analyst & Data Scientist-in-training
+## Hi! My name is Avedi Musungu (Or Potterblack) 
+## - a Data Analyst & Data Scientist-in-training
 # This is the landing page for past and present projects for your pleasure
 
 You can use the [editor on GitHub](https://github.com/potterblack-ke/potterblack-ke.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
